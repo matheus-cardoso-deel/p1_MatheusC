@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p1Matheus_C</string>
+
+    <string name="hello">Hello!</string>
+    <string name="name">Name</string>
+    <string name="degree">Degree</string>
+    <string name="clear">Clear</string>
+    <string name="action_settings">Settings</string>
+</resources>

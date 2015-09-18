@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">p1Matheus_C</string>
+
+    <string name="hello">Olá!</string>
+    <string name="name">Nome</string>
+    <string name="degree">Curso</string>
+    <string name="clear">Limpar</string>
+    <string name="action_settings">Configurações</string>
+</resources>
