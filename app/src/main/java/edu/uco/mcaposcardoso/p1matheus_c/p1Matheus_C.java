@@ -8,6 +8,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+/*
+    author: Matheus Campos Cardoso
+    date: 09/18/2015
+    description: app that displays name and major
+ */
+
 public class p1Matheus_C extends AppCompatActivity {
 
     @Override
